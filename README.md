@@ -6,9 +6,10 @@ Code used for Reinforcement Learning related workshops for Project Analytics Gro
 ## Implementation
 
 Algorithms:
-1. Monte Carlo for FrozenLake Env
-2. Temporal Difference for Taxi Env
-3. Deep Q-Network for CartPole Env
+1. OpenAI Gym Env 
+2. Monte Carlo for FrozenLake Env
+3. Temporal Difference for Taxi Env
+4. Deep Q-Network for CartPole Env
 
 ## Slides
 Link to the presentation materials: 

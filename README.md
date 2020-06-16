@@ -12,6 +12,15 @@ Algorithms:
 4. Deep Q-Network for CartPole Env
 
 ## Slides
-Link to the presentation materials: 
+Link to the presentation materials: In progress
 
 # Part II: Advanced Reinforcement Learning
+
+Algorithms:
+1. Variants of DQN
+2. PPO
+3. Actor-Critic
+4. DDPG
+
+## Slides
+Link to the presentation materials: In progress

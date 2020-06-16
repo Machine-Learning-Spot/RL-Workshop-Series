@@ -4,7 +4,6 @@ Code used for Reinforcement Learning related workshops for Project Analytics Gro
 # Part I: Introduction to Reinforcement Learning
 
 ## Implementation
-
 Algorithms:
 1. OpenAI Gym Env 
 2. Monte Carlo for FrozenLake Env
@@ -16,6 +15,7 @@ Link to the presentation materials: In progress
 
 # Part II: Advanced Reinforcement Learning
 
+## Implementation
 Algorithms:
 1. Variants of DQN
 2. PPO

@@ -1,7 +1,7 @@
 # RL-Workshop-Series
 Code used for Reinforcement Learning related workshops for Project Analytics Group, GRID Inc.
 
-![](./cover.jpg){:height="50%" width="50%"}
+![](./cover.jpg){:height="700px" width="400px"}
 
 # Part I: Introduction to Reinforcement Learning
 

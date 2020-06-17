@@ -14,7 +14,7 @@ Algorithms:
 5. GA and PSO algorithms for Battleship Env
 
 ## Slides
-Link to the presentation materials: http://bit.ly/rl-workshop-grid
+Link to the presentation materials: http://bit.ly/rl-workshop-grid-part1
 
 # Part II: Advanced Reinforcement Learning
 

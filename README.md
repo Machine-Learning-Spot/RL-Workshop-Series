@@ -5,7 +5,7 @@ Code used for Reinforcement Learning related workshops for Project Analytics Gro
 
 # Installation
 
-Install pytorch[https://pytorch.org/get-started/locally/] on your machine.
+Install [pytorch](https://pytorch.org/get-started/locally) on your machine.
 
 # Part I: Introduction to Reinforcement Learning
 

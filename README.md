@@ -10,7 +10,7 @@ Install PyTorch and OpenAI's Gym on your machine. Detailed instruction:
 * PyTorch: https://pytorch.org/get-started/locally
 * Gym: https://gym.openai.com/docs/#installation
 
-To make sure your Gym environment work properly, try to run this [notebooks](https://github.com/muhamuttaqien/RL-Workshop-Series/blob/master/part-1/rl-platforms/gym/00_init_atari_env.ipynb) on your local machine. 
+To make sure your Gym environment work properly (you can see game screen displayed), try to run this [notebooks](https://github.com/muhamuttaqien/RL-Workshop-Series/blob/master/part-1/rl-platforms/gym/00_init_atari_env.ipynb) on your local machine. 
 
 # Part I: Introduction to Reinforcement Learning
 

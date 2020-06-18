@@ -5,7 +5,10 @@ Code used for Reinforcement Learning related workshops for Project Analytics Gro
 
 # Installation
 
-Install [pytorch](https://pytorch.org/get-started/locally) on your machine.
+Install PyTorch and OpenAI's Gym on your machine. Detailed instruction:
+
+* PyTorch: https://pytorch.org/get-started/locally
+* Gym: https://gym.openai.com/docs/#installation
 
 # Part I: Introduction to Reinforcement Learning
 

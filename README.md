@@ -29,8 +29,8 @@ Link to the presentation materials: http://bit.ly/rl-workshop-grid-part1
 
 ## Implementation
 Algorithms:
-1. DQN & DDPG
-2. Reinforce & PPO
+1. TD Methods: DQN & DDPG
+2. MC Methods: Reinforce & PPO
 3. Actor-Critic
 4. Multi-Agent
 

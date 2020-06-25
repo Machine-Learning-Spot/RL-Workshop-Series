@@ -29,10 +29,10 @@ Link to the presentation materials: http://bit.ly/rl-workshop-grid-part1
 
 ## Implementation
 Algorithms:
-1. Variants of DQN
-2. PPO
+1. DQN & DDPG
+2. Reinforce & PPO
 3. Actor-Critic
-4. DDPG
+4. Multi-Agent
 
 ## Slides
 Link to the presentation materials: In progress

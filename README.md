@@ -10,6 +10,8 @@ Install PyTorch and OpenAI's Gym on your machine. Detailed instruction:
 * PyTorch: https://pytorch.org/get-started/locally
 * Gym: https://gym.openai.com/docs/#installation
 
+To make sure your Gym environment work properly (you can see game screen displayed when it's run), try to run this [notebooks](https://github.com/muhamuttaqien/RL-Workshop-Series/blob/master/part-1/rl-platforms/gym/00_init_atari_env.ipynb) on your local machine. 
+
 # Part I: Introduction to Reinforcement Learning
 
 ## Implementation
@@ -27,10 +29,10 @@ Link to the presentation materials: http://bit.ly/rl-workshop-grid-part1
 
 ## Implementation
 Algorithms:
-1. Variants of DQN
-2. PPO
+1. TD Methods: DQN & DDPG
+2. MC Methods: Reinforce & PPO
 3. Actor-Critic
-4. DDPG
+4. Multi-Agent
 
 ## Slides
 Link to the presentation materials: In progress
